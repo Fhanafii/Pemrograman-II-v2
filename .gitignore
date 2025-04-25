@@ -1,0 +1,4 @@
+/build/
+/nbproject/
+src/view/*.form
+/target/
